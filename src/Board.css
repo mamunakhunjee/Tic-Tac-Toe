@@ -1,0 +1,73 @@
+.board{
+    display: grid;
+    justify-content: center;
+    width: 39vh;
+    margin: auto;
+}
+
+.boxBtn {
+    text-align: center;
+    text-decoration: none;
+    font-size: 2em;
+    width: 13vh;
+    height: 13vh;
+    background-color: #426fa0;
+    color: #000;
+}
+
+#box1 {
+    border: 0;
+    border-right: 5px solid #2c3e50;
+    border-bottom: 5px solid #2c3e50;
+    border-radius: 5px;
+}
+
+#box2 {
+    border: 0;
+    border-right: 5px solid #2c3e50;
+    border-bottom: 5px solid #2c3e50;
+    border-radius: 5px;
+}
+
+#box3 {
+    border: 0;
+    border-bottom: 5px solid #2c3e50;
+    border-radius: 5px;
+}
+
+#box4 {
+    border: 0;
+    border-right: 5px solid #2c3e50;
+    border-bottom: 5px solid #2c3e50;
+    border-radius: 5px;
+}
+
+#box5 {
+    border: 0;
+    border-right: 5px solid #2c3e50;
+    border-bottom: 5px solid #2c3e50;
+    border-radius: 5px;
+}
+
+#box6 {
+    border: 0;
+    border-bottom: 5px solid #2c3e50;
+    border-radius: 5px;
+}
+
+#box7 {
+    border: 0;
+    border-right: 5px solid #2c3e50;
+    border-radius: 5px;
+}
+
+#box8 {
+    border: 0;
+    border-right: 5px solid #2c3e50;
+    border-radius: 5px;
+}
+
+#box9 {
+    border: 0;
+    border-radius: 5px;
+}
